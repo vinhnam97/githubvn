@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RenLuyenSucKhoe</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dau_phong">Đậu Phộng</string>
+    <string name="tieu_de">Giá trị dinh dưỡng và một số lưu ý</string>
+</resources>
